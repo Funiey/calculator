@@ -1,0 +1,37 @@
+import math
+
+def finance_calculators():
+    print("Financial Calculators")
+    print("--------------------")
+    print("1. Investment Calculator")
+    print("2. Home Loan Repayment Calculator")
+   
+    while True:
+        choice = input("Enter your choice (investment or bond): ")
+        if choice.lower() in ["investment", "bond"]:
+            break
+        else:
+            print("Invalid input. Please try again.")
+   
+    if choice.lower() == "investment":
+        deposit = float(input("Enter the amount of money you are depositing: "))
+        rate = float(input("Enter the interest rate (as a percentage): ")) / 100
+        years = int(input("Enter the number of years you plan on investing for: "))
+        interest = input("Do you want 'simple' or 'compound' interest? ")
+       
+        if interest.lower() == "simple":
+            A = deposit * (1 + rate * years)
+            print(f"The total amount after {years} years is: {A:.2f}")
+        elif interest.lower() == "compound":
+            A = deposit * math.pow((1 + rate), years)
+            print(f"The total amount after {years} years is: {A:.2f}")
+   
+    elif choice.lower() == "bond":
+        present_value = float(input("Enter the present value of the house: "))
+        rate = float(input("Enter the interest rate: ")) / 100 / 12
+        months = int(input("Enter the number of months you plan to take to repay the bond: "))
+       
+        repayment = present_value * (rate / (1 - math.pow(1 + rate, -months)))
+        print(f"The monthly repayment is: {repayment:.2f}")
+
+finance_calculators()
