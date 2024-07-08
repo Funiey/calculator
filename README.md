@@ -1,4 +1,4 @@
-calculator
+Calculator
 A simple and Compound calculator for performing various financial calculations.
 
 Built with
