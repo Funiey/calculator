@@ -24,6 +24,7 @@ This project is licensed under the MIT License. See LICENSE for details.
 # project picture
 
 
+![Screenshot (32)](https://github.com/Funiey/calculator/assets/127227319/c002811c-8d4c-42e0-a524-ee337edc2226)
 
 
 
