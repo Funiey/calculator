@@ -21,6 +21,11 @@ A simple and Compound calculator for performing various financial calculations.
 
 This project is licensed under the MIT License. See LICENSE for details.
 
+# project picture
+
+![Screenshot (31)](https://github.com/Funiey/calculator/assets/127227319/b4364906-3a5a-4811-953b-eead4e6e1550)
+
+
 # Authour
 👤 Funani Maitakhole
   * GitHub: https://github.com/Funiey
