@@ -23,7 +23,7 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 # project picture
 
-![Screenshot (31)](https://github.com/Funiey/calculator/assets/127227319/f889b763-b9bc-4ce7-979c-9162ff9e71b5)
+
 
 
 
