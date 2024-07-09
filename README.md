@@ -32,7 +32,7 @@ This project is licensed under the MIT License. See LICENSE for details.
   
 ![Screenshot (33)](https://github.com/Funiey/calculator/assets/127227319/6f59d928-c271-4b9b-99ac-3214e97a70e8)
 
-*Exit
+* Exit
 
 ![Screenshot (34)](https://github.com/Funiey/calculator/assets/127227319/8598ddb4-7fc0-4dcd-b501-3047621cb10a)
 
