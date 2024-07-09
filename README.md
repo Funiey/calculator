@@ -24,10 +24,12 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 # project picture
 
-Investment calculation
+* Investment calculation
+  
 ![Screenshot (32)](https://github.com/Funiey/calculator/assets/127227319/994ffb48-5b2f-44ce-846a-c669bd71441e)
 
-Bond calculation
+* Bond calculation
+  
 ![Screenshot (33)](https://github.com/Funiey/calculator/assets/127227319/6f59d928-c271-4b9b-99ac-3214e97a70e8)
 
 
