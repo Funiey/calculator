@@ -34,6 +34,7 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 * Exit
 
+![Screenshot (36)](https://github.com/Funiey/calculator/assets/127227319/be52fea0-96ec-464a-b1b9-9a9b45327403)
 
 
 # Authour
