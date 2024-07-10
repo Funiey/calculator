@@ -34,7 +34,7 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 * Exit
 
-![Screenshot (34)](https://github.com/Funiey/calculator/assets/127227319/8598ddb4-7fc0-4dcd-b501-3047621cb10a)
+
 
 # Authour
 👤 Funani Maitakhole
