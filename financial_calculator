@@ -69,8 +69,7 @@ while True:
     mySelection = output() 
     if mySelection == 1 or mySelection == 2: 
         calculations(mySelection)  
-    elif mySelection == 0:
-        print("dankie")     
+    elif mySelection == 0:   
         break
 
 
